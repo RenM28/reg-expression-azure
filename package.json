@@ -1,0 +1,11 @@
+{
+    "name": "app-service-reg-exp",
+    "description": "RegExp Tester",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Ren Gernes",
+    "scripts": {
+        "start": "index.js"
+    }
+}
